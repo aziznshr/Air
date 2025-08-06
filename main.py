@@ -13,8 +13,8 @@ STANDARDS = {
     "akomodasi_glamping": 150,  # L/tempat tidur/hari
     "hewan_domba": 5,           # L/ekor/hari
     "hewan_unggas": 0.6,        # L/ekor/hari
-    "lanskap_irigasi": 1.5,     # L/m2/hari (estimasi)
-    "kolam_renang_topup": 0.05, # Persentase top-up harian dari total volume (estimasi gabungan penguapan, cipratan, backwash)
+    "lanskap_irigasi": 3,     # L/m2/hari (estimasi)
+    "kolam_renang_topup": 0.01, # Persentase top-up harian dari total volume (estimasi gabungan penguapan, cipratan, backwash)
     "club_beverage_service": 5, # L/pengunjung club/malam (cuci gelas, es, dll. - estimasi)
     "club_sanitasi": 10         # L/pengunjung club/malam (sama dengan sanitasi umum)
 }
